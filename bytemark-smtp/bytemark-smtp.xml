@@ -7,20 +7,20 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://hub.docker.com/r/bytemark/smtp/</Support>
+  <Support></Support>
   <Project>https://github.com/BytemarkHosting/docker-smtp</Project>
-  <Overview>This image allows linked containers to send outgoing email. You can configure it to send email directly to recipients, or to act as a smart host that relays mail to an intermediate server (eg, GMail, SendGrid). &#xD;The default installation is the smart host version, for additional options to use as a smart host see the project link. &#xD;
+  <Overview>This image allows linked containers to send outgoing email. You can configure it to send email directly to recipients, or to act as a smart host that relays mail to an intermediate server (eg, GMail, SendGrid). &#xD;The default installation is the smart host version, for additional parameters to use as a smart host see the project link. &#xD;
 &#xD;
 https://hub.docker.com/r/bytemark/smtp/</Overview>
   <Category>Productivity: Tools: Network:Other</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon></>
+  <Icon>https://raw.githubusercontent.com/emptyfish/unraid-apps/main/bytemark-smtp/icon.png<Icon/>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
   <DateInstalled />
-  <DonateText>If you found this useful feel free to drop a tip here</>
+  <DonateText>If you found this useful feel free to drop a tip here</DonateText>
   <DonateLink>https://ko-fi.com/emptyfish<DonateLink />
   <Requires/>
   <Config Name="SMTP Port" Target="25" Default="25" Mode="tcp" Description="" Type="Port" Display="always" Required="true" Mask="false" />
