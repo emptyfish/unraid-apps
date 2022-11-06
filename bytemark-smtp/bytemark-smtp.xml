@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support></Support>
+  <Support>https://forums.unraid.net/topic/130616-support-emptyfishs-template-repository/</Support>
   <Project>https://github.com/BytemarkHosting/docker-smtp</Project>
   <Overview>This image allows linked containers to send outgoing email. You can configure it to send email directly to recipients, or to act as a smart host that relays mail to an intermediate server (eg, GMail, SendGrid). &#xD;The default installation is the smart host version, for additional parameters to use as a smart host see the project link. &#xD;
 &#xD;
