@@ -15,7 +15,7 @@ https://hub.docker.com/r/bytemark/smtp/</Overview>
   <Category>Productivity: Tools:</Category>
   <WebUI/>
   <TemplateURL/>
-  <Icon>https://raw.githubusercontent.com/emptyfish/unraid-apps/main/bytemark-smtp/icon.png<Icon/>
+  <Icon>https://raw.githubusercontent.com/emptyfish/unraid-apps/main/bytemark-smtp/icon.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
