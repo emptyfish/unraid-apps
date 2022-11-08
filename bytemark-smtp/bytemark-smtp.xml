@@ -21,7 +21,7 @@ https://hub.docker.com/r/bytemark/smtp/</Overview>
   <CPUset/>
   <DateInstalled />
   <DonateText>If you found this useful feel free to drop a tip here</DonateText>
-  <DonateLink>https://ko-fi.com/emptyfish<DonateLink />
+  <DonateLink>https://ko-fi.com/emptyfish</DonateLink>
   <Requires/>
   <Config Name="SMTP Port" Target="25" Default="25" Mode="tcp" Description="SMTP port" Type="Port" Display="always" Required="true" Mask="false" />
 </Container>
