@@ -4,7 +4,7 @@
   <Repository>bytemark/smtp</Repository>
   <Registry>https://hub.docker.com/r/bytemark/smtp/</Registry>
   <Network>container-network</Network>
-  <MyIP/>
+  <MyIP />
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/130616-support-emptyfishs-template-repository/</Support>
@@ -13,15 +13,15 @@
 &#xD;
 https://hub.docker.com/r/bytemark/smtp/</Overview>
   <Category>Productivity: Tools:</Category>
-  <WebUI/>
-  <TemplateURL/>
+  <WebUI />
+  <TemplateURL />
   <Icon>https://raw.githubusercontent.com/emptyfish/unraid-apps/main/bytemark-smtp/icon.png</Icon>
-  <ExtraParams/>
-  <PostArgs/>
-  <CPUset/>
+  <ExtraParams />
+  <PostArgs />
+  <CPUset />
   <DateInstalled />
   <DonateText>If you found this useful feel free to drop a tip here</DonateText>
   <DonateLink>https://ko-fi.com/emptyfish</DonateLink>
-  <Requires/>
+  <Requires />
   <Config Name="SMTP Port" Target="25" Default="25" Mode="tcp" Description="SMTP port" Type="Port" Display="always" Required="true" Mask="false" />
 </Container>
